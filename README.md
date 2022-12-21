@@ -1,2 +1,2 @@
-# sphinx-wmo-theme
-Sphinx WMO theme
+# wmo-sphinx-theme
+WMO theme for Sphinx documentation
